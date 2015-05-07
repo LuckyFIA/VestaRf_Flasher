@@ -15,6 +15,7 @@ Usage
 ---------------
 Just click flash and you can burn firmware to ESP8266. Before you doing it, GPIO0 MUST LOW.
 
+For view video, click to image (youTube)
 [![Small video](http://img.youtube.com/vi/NS5gXJyhOJE/0.jpg)](//www.youtube.com/watch?v=NS5gXJyhOJE)
 
 
