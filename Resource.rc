@@ -1,0 +1,5 @@
+VESTA_RF     BIN        Resources\Binaries\vestaRf_0.0.9_20150506.bin
+YES         RCDATA     Resources\Images\Yes.png
+NO          RCDATA     Resources\Images\No.png
+WAIT        BIN        Resources\Images\Spinner.gif
+LOGO        RCDATA     Resources\Images\Logo.png
